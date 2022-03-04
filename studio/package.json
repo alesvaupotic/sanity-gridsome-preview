@@ -21,6 +21,7 @@
     "@sanity/default-layout": "^2.20.0",
     "@sanity/default-login": "^2.19.0",
     "@sanity/desk-tool": "^2.20.0",
+    "@sanity/production-preview": "^2.15.0",
     "date-fns": "^2.25.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
